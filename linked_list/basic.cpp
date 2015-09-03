@@ -1,5 +1,5 @@
 //  I the following way
-//   ------> () -----> () ------> ()
+//  (head) ------> (2nd) -----> (3rd) ------> (4rth)
 
 
 #include <iostream>
